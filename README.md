@@ -10,6 +10,6 @@ I have been using the [windows version](https://gamebanana.com/tools/1522 "Stalk
 
 ## Demo:
 
-![Demo Image](https://raw.githubusercontent.com/Kambaa/stalker-linux-animated-cursor-theme/main/Screenshot%20from%202020-10-16%2000-58-59.png "Demo")
+![Demo Image](https://github.com/Kambaa/stalker-linux-animated-cursor-theme/blob/main/2020-10-16-01-17-31.gif "Demo")
 
 # Happy Hunting, STALKER!

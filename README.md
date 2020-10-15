@@ -13,3 +13,6 @@ I have been using the [windows version](https://gamebanana.com/tools/1522 "Stalk
 ![Demo Image](https://github.com/Kambaa/stalker-linux-animated-cursor-theme/blob/main/2020-10-16-01-17-31.gif "Demo")
 
 # Happy Hunting, STALKER!
+
+### Update(10mins after finishing this repo:) 
+found [this](https://www.gnome-look.org/p/999582/ "Another version, better i might add."). God damn!

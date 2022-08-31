@@ -15,4 +15,6 @@ I have been using the [windows version](https://gamebanana.com/tools/1522 "Stalk
 # Happy Hunting, STALKER!
 
 ### Update(10mins after finishing this repo:) 
-found [this](https://www.gnome-look.org/p/999582/ "Another version, better i might add."). God damn!
+i did know [this](https://gamebanana.com/tools/download/1522#FileInfo_164822)
+but found [this](https://www.gnome-look.org/p/999582/ "Another version, better i might add."). sheet!
+and [this](https://vsthemes.org/en/cursors/994-stalker.html)
